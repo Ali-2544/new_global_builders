@@ -37,13 +37,6 @@ const services = [
 
 const projects = [
   {
-    image: projectBridge,
-    title: "Motorway Bridge Project",
-    location: "Lahore, Pakistan",
-    category: "Civil Infrastructure",
-    status: "Completed",
-  },
-  {
     image: projectWater,
     title: "Water Treatment Plant",
     location: "Karachi, Pakistan",
